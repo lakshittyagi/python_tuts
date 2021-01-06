@@ -1,0 +1,5 @@
+
+ {'akshu': 12, 'abhay': 24, 'akshay': 5}
+ {'akshit': 4, 'lakshit': 6, 'shiva': 6, 'shivani': 18}
+ {'lakshit': 0, 'shubham': 4, 'shivani': 0, 'shiva': 22}
+ {}

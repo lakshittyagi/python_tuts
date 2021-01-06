@@ -1,0 +1,7 @@
+hello, I am lakshit
+Welcome
+	 to my youtube channel
+ {'name': 'Akshu Tyagi', 'email': 'tyagi@gmail.com', 'profession': 'Teacher'}
+ {'name': 'Akshu Tyagi', 'email': 'tyagi@gmail.com', 'profession': 'Teacher'}
+ {'name': 'Tyagi', 'email': 'tyagi@gmail.com', 'profession': 'Teacher'}
+ {'name': 'Lakshit', 'email': 'tyagi@gmail.com', 'profession': 'Teacher'}
